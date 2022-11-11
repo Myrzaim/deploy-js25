@@ -15,7 +15,7 @@ const MainRoutes = () => {
       <Route path="/" element={<HomePage />} />
       <Route path="/about" element={<AboutUs />} />
 
-      {/* tur crud */}
+      {/* tur cruda */}
   
       <Route path="/list" element={<TurList />} />
       <Route path="/add" element={<AddTur />} />
